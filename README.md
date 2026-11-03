@@ -2,7 +2,7 @@
 
 Shipinhao API，专业的视频号 数据API 平台，包含视频号多个数据接口，10+视频号接口全面覆盖用户、作品、搜索等场景。开箱即用，注册后系统会自动赠送免费额度用于测试。
 
-我们是一家专业的数据服务提供商，提供标准的 HTTP 接口服务，并可根据您的需求定制化数据服务。 
+我们是一家专业的数据服务提供商，提供标准的 HTTP 接口服务，并可根据您的需求定制化数据服务。  
 
 [官网](https://getoneapi.com/) | [接口文档](https://doc.getoneapi.com/) | [在线调试](https://doc.getoneapi.com/) | [定价](https://dashboard.getoneapi.com/)
 
